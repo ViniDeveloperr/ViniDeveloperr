@@ -1,7 +1,8 @@
 
 ### Olá!, Eu sou o Vinicius Alves ✋🏻
 
-Trabalho atualmente como Desenvolvedor de Sistemas ->
+## Trabalho atualmente como Desenvolvedor de Sistemas ->
+
 [![blog](https://img.shields.io/website?label=Grunnertec.com.br&style=for-the-badge&url=https://grunnertec.com.br/)](https://www.grunnertec.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alvesz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![work](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.grunnertec.com.br)
